@@ -83,6 +83,7 @@
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
+            this.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
